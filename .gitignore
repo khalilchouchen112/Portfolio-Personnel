@@ -14,10 +14,6 @@ tailwind.config.js
 postcss.config.js
 .vite.config.js
 .env
-eslint.config.js
-package-lock.json
-package.json
-vit
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
